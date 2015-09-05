@@ -1,9 +1,7 @@
-# Quiero escribir un libro sobre Git
+# Quiero escribir un libro
 
 # Introducción.
-Git es un sistema que ayuda a llevar el control de versiones de código
+Este es el capítulo uno de mi libro que quiero escribir.
 
 # Capítulo 1.
 Este es el capítulo dos de mi libro que quiero escribir.
-
-hola
