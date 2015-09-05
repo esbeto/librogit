@@ -1,7 +1,7 @@
 # Quiero escribir un libro
 
-# Capítulo 1.
+# Introducción.
 Este es el capítulo uno de mi libro que quiero escribir.
 
-# Capítulo 2.
+# Capítulo 1.
 Este es el capítulo dos de mi libro que quiero escribir.
